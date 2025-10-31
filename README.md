@@ -11,7 +11,7 @@ I'm a results-driven software engineer from **Noida, India**, currently pursuing
 - ⚙️ Skilled in **MERN stack**, RESTful APIs, and responsive UI design
 - 🏥 Built **DocSeek** – a scalable telemedicine platform to support remote medical consultations
 - 🛠️ Former **Frontend Web Developer Intern** at AAR Infotech, where I built scalable UI in React.js
-- 📚 Solved 150+ algorithmic problems across **LeetCode**, **Codeforces**, and **GFG**
+- 📚 Solved 500+ algorithmic problems across **LeetCode**, **Codeforces**, and **GFG**
 - 📊 Learning data visualization with **Power BI**, and exploring cloud integration
 
 ---
