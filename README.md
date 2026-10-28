@@ -57,11 +57,6 @@ REST APIs and a React frontend for doctor discovery, appointment booking and con
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ujjwalkumar6200&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ujjwalkumar6200&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwalkumar09)
